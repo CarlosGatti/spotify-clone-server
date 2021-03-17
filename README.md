@@ -27,5 +27,3 @@ Build and start project:
 ```bash
 npm start
 ```
-
-![App Screen Shot](https://github.com/CarlosGatti/spotify-clone-client/blob/main/demo/arctic.png)
